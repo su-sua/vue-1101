@@ -1,4 +1,4 @@
-# vue-1029-night
+# vue-1029
 
 ## Project setup
 ```
